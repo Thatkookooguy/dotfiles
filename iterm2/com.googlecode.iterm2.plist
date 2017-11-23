@@ -745,9 +745,9 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>650 515 620 392 0 0 1920 1058 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>562 390 918 381 0 0 1920 1058 </string>
+	<string>562 338 796 473 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 224 1117 834 0 0 1920 1058 </string>
+	<string>0 65 1920 993 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>309 348 570 400 0 0 1920 1058 </string>
 	<key>New Bookmarks</key>
@@ -1066,7 +1066,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>No</string>
+			<string>Recycle</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Description</key>
@@ -1718,7 +1718,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>No</string>
+			<string>Recycle</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Description</key>
